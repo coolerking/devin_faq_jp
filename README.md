@@ -266,10 +266,6 @@ Sleep / Usage Settings / 再開手順
 
 ---
 
-## 編集について
-
-- 編集元のモノリス `org/faq.md` は VM 内のみ参照可能（`.gitignore` 済）
-- `docs/` 配下は `tools/split.py` が自動生成。直接編集しない
 
 ## ライセンス
 
