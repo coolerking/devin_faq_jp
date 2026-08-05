@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-08-05
+
+### Q71 追加（71問）
+
+- `docs/02-pricing/q71-personal-pro-email-limit.md` を追加（2026年4月の料金改定後に個人Proプランが選択できない理由と対処）
+- `tools/split.py` の `QMAP` に Q71 を追加
+- ルート `README.md`・`docs/02-pricing/README.md` の索引を更新（総質問数 70→71、02 料金・プラン 2→3）
+
 ## 2026-04-17
 
 ### 初版（70問）

@@ -137,9 +137,10 @@ QMAP: dict[int, tuple[str, str]] = {
     68: ("04-github-scm", "clone-without-wiki"),
     69: ("05-ide-cli", "devin-cli-modes"),
     70: ("02-pricing", "devin-vs-windsurf-plans"),
+    71: ("02-pricing", "personal-pro-email-limit"),
 }
 
-assert len(QMAP) == 70, f"QMAP has {len(QMAP)} entries (expected 70)"
+assert len(QMAP) == 71, f"QMAP has {len(QMAP)} entries (expected 71)"
 for qno, (cat, _) in QMAP.items():
     assert any(c[0] == cat for c in CATEGORIES), f"Q{qno}: category {cat!r} not in CATEGORIES"
 
