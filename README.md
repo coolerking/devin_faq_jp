@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **総質問数** | 70問 |
+| **総質問数** | 71問 |
 | **最終確認** | 2026-04-17 |
 | **対応 Devin バージョン** | 2026年4月時点（2026/4/16 料金改定反映） |
 | **対象読者** | Devin 検討〜エンタープライズ管理者 |
@@ -19,7 +19,7 @@
 | # | カテゴリ | 質問数 | リンク |
 |---|---|---|---|
 | 01 | Devin入門（What/Who） | 6 | [docs/01-introduction/](docs/01-introduction/README.md) |
-| 02 | 料金・プラン | 2 | [docs/02-pricing/](docs/02-pricing/README.md) |
+| 02 | 料金・プラン | 3 | [docs/02-pricing/](docs/02-pricing/README.md) |
 | 03 | 基本操作・セッション | 4 | [docs/03-basic-operations/](docs/03-basic-operations/README.md) |
 | 04 | GitHub・SCM連携 | 9 | [docs/04-github-scm/](docs/04-github-scm/README.md) |
 | 05 | IDE・エディタ・CLI | 5 | [docs/05-ide-cli/](docs/05-ide-cli/README.md) |
@@ -109,6 +109,7 @@
 - [Q68. Devin Wiki に未登録のリポジトリを Devin セッションの VM 上に `git clone` して開発に使える？](docs/04-github-scm/q68-clone-without-wiki.md)
 - [Q69. Devin CLI を使う場合、Devin セッションの仮想マシンは作成される？CLI を実行している PC で作業？両方可能？](docs/05-ide-cli/q69-devin-cli-modes.md)
 - [Q70. Devin と Windsurf のプランは別物？同名の Pro/Max は同じ？](docs/02-pricing/q70-devin-vs-windsurf-plans.md)
+- [Q71. 2026年4月の料金改定後、個人Proプランのボタンが押せない（選択できない）のはなぜ？](docs/02-pricing/q71-personal-pro-email-limit.md)
 
 ---
 
@@ -131,6 +132,7 @@ Devin の料金体系、Windsurf プランとの関係
 
 - [Q7. Devinの料金体系は？（2026/4/16の改定）](docs/02-pricing/q07-devin-pricing.md)
 - [Q70. Devin と Windsurf のプランは別物？同名の Pro/Max は同じ？](docs/02-pricing/q70-devin-vs-windsurf-plans.md)
+- [Q71. 2026年4月の料金改定後、個人Proプランのボタンが押せない（選択できない）のはなぜ？](docs/02-pricing/q71-personal-pro-email-limit.md)
 
 ### 03. 基本操作・セッション
 
